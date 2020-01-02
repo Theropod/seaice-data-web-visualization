@@ -1,0 +1,4280 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8942,
+                    78.55148333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.016466667,
+                    78.72251667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.312833333,
+                    78.88053333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.966666667,
+                    79.06745
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7167,
+                    79.32833333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.666666667,
+                    79.98
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.034383333,
+                    80.17578333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5563,
+                    80.30478333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.0545,
+                    81.01916667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.350333333,
+                    81.10123333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.614683333,
+                    81.25996667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.767933333,
+                    81.4573
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7843,
+                    81.6645
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.221066667,
+                    81.8618
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0537,
+                    82.06833333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.937833333,
+                    82.24816667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.390733333,
+                    82.37491667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3928,
+                    82.4603
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.575,
+                    82.72483333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.681866667,
+                    82.79655
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.452,
+                    82.85946667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.245166667,
+                    82.8905
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.24385,
+                    82.89578333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.239033333,
+                    82.89795
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2358,
+                    82.9011
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.229783333,
+                    82.90243333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.190533333,
+                    82.90761667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.274016667,
+                    82.88065
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.255833333,
+                    82.90146667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2752,
+                    82.9066
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.265983333,
+                    82.908
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.212,
+                    82.90266667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.16085,
+                    82.91286667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.19915,
+                    82.90441667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.18195,
+                    82.90768333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.486016667,
+                    82.85823333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4767,
+                    82.8717
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.46265,
+                    81.86486667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3846,
+                    82.87258333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.33225,
+                    82.88038333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.305983333,
+                    82.95306667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.214816667,
+                    82.88893333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.22545,
+                    82.89685
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3395,
+                    82.89673333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.273333333,
+                    82.895
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.174166667,
+                    82.89945
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3051,
+                    82.8929
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.263916667,
+                    82.89595
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2381,
+                    82.9072
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.21665,
+                    82.89451667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.876066667,
+                    82.91786667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.190983333,
+                    82.97861667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.237216667,
+                    83.01363333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2716,
+                    83.0847
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.590416667,
+                    83.11058333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.450666667,
+                    83.10813333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.448333333,
+                    83.10983333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.46815,
+                    83.11176667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.968833333,
+                    83.00866667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.238583333,
+                    82.95735
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.758466667,
+                    82.94333333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.330766667,
+                    82.93973333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.256083333,
+                    82.89385
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.380433333,
+                    82.86753333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.389066667,
+                    82.88241667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.383283333,
+                    82.88418333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.327666667,
+                    82.895
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.21875,
+                    82.9066
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.308316667,
+                    82.89691667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.290333333,
+                    82.8925
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.269333333,
+                    82.89808333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.242266667,
+                    82.89843333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2066,
+                    82.90081667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1363,
+                    82.90468333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1363,
+                    82.90468333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.716666667,
+                    82.90951667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.193733333,
+                    82.89408333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.239633333,
+                    82.8985
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.229016667,
+                    82.90116667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.218333333,
+                    82.90223333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2504,
+                    82.89208333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2615,
+                    82.904
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2174,
+                    82.90928333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.237916667,
+                    82.92108333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.33875,
+                    82.91865
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.316233333,
+                    82.9263
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.353483333,
+                    82.92893333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1979,
+                    82.95455
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.196533333,
+                    82.96098333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.289516667,
+                    82.95263333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.280716667,
+                    82.93421667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.260383333,
+                    82.89773333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2638,
+                    82.90023333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.276416667,
+                    82.90066667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.280416667,
+                    82.89638333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.395983333,
+                    82.89041667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 10,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.386333333,
+                    82.89233333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.39,
+                    82.895
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.395,
+                    82.8974
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.446433333,
+                    82.90813333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5908,
+                    82.89546667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.211883333,
+                    82.89573333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259666667,
+                    82.89766667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.305,
+                    82.89928333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.212666667,
+                    82.89933333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.146,
+                    82.89816667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.206283333,
+                    82.89871667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.25705,
+                    82.89946667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.333333333,
+                    82.89768333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4065,
+                    82.89716667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0765,
+                    82.9095
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.212616667,
+                    82.90351667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.248333333,
+                    82.90166667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.286033333,
+                    82.92
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.339466667,
+                    83.0229
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.277133333,
+                    83.01988333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.266883333,
+                    83.02076667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.603816667,
+                    82.97676667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.055766667,
+                    82.98751667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.522383333,
+                    82.99151667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4756,
+                    82.99383333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.416266667,
+                    83.01651667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.10395,
+                    83.06445
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.765,
+                    83.09716667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.083466667,
+                    83.06391667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.072233333,
+                    83.06778333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.068416667,
+                    83.07088333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.069766667,
+                    83.0736
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.11185,
+                    83.08051667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0864,
+                    83.05821667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.10375,
+                    83.0626
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.108,
+                    83.06488333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.000816667,
+                    83.0749
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.981966667,
+                    83.08678333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.993833333,
+                    83.08661667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.01845,
+                    83.0868
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.750616667,
+                    83.11056667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.801666667,
+                    83.07
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.058,
+                    83.02588333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.477666667,
+                    83.06833333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.240366667,
+                    82.94508333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.130866667,
+                    82.89973333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.180666667,
+                    82.9024
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.250383333,
+                    82.90708333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2892,
+                    82.91196667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.31375,
+                    82.91391667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.201883333,
+                    82.8976
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.233333333,
+                    82.9016
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2929,
+                    82.90496667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.177033333,
+                    82.89743333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2069,
+                    82.90025
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.233166667,
+                    82.901
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.183583333,
+                    82.90328333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1061,
+                    82.87125
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.182766667,
+                    82.88443333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.189016667,
+                    82.89016667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.220916667,
+                    82.89756667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.320416667,
+                    82.90708333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.321666667,
+                    82.90666667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.116083333,
+                    82.893
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.154166667,
+                    82.89466667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.202316667,
+                    82.89615
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.235333333,
+                    82.892
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.226783333,
+                    82.8949
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.237916667,
+                    82.89723333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2729,
+                    82.90528333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.443766667,
+                    82.92233333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.297716667,
+                    82.89833333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.22035,
+                    82.90183333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.213866667,
+                    82.90206667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2516,
+                    82.90125
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2636,
+                    82.90548333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.281666667,
+                    82.90966667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.247216667,
+                    82.90306667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.226833333,
+                    82.89616667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.194133333,
+                    82.89733333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.209966667,
+                    82.89826667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.23415,
+                    82.90123333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.252816667,
+                    82.90301667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.303583333,
+                    82.9003
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.354633333,
+                    82.90223333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.240233333,
+                    82.88341667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1807,
+                    82.88805
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.18765,
+                    82.8875
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2134,
+                    82.88895
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.235833333,
+                    82.8895
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.24465,
+                    82.89051667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.286666667,
+                    82.89
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.379,
+                    82.9036
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.34025,
+                    82.95266667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.162266667,
+                    82.94296667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 10,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.251783333,
+                    82.95821667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.281666667,
+                    82.958
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.992183333,
+                    82.93128333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.168833333,
+                    82.90288333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.20375,
+                    82.90166667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.217883333,
+                    82.89791667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.236133333,
+                    82.90035
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.24755,
+                    82.90466667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.249166667,
+                    82.90716667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0995,
+                    82.9056
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.118333333,
+                    82.90666667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.148916667,
+                    82.90805
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2978,
+                    82.918
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2869,
+                    82.9197
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.264433333,
+                    82.92075
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.25445,
+                    82.92078333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.193916667,
+                    82.92265
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.201366667,
+                    82.92766667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.181433333,
+                    82.90081667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2184,
+                    82.90308333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.230633333,
+                    82.90523333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.238766667,
+                    82.9069
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2311,
+                    82.91076667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.344,
+                    82.92316667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.258183333,
+                    82.90986667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.252666667,
+                    82.91328333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2558,
+                    82.88763333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.249083333,
+                    82.89316667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.254683333,
+                    82.9035
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.248516667,
+                    82.90473333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.068166667,
+                    82.9104
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.4833333,
+                    82.91583333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.154,
+                    82.91833333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.169166667,
+                    82.91833333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1968,
+                    82.92193333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.190633333,
+                    82.92621667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.164766667,
+                    82.93255
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.975083333,
+                    82.90701667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.967016667,
+                    82.91246667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.986666667,
+                    82.92233333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.391383333,
+                    82.85256667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.410783333,
+                    82.84973333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3612,
+                    82.85886667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.340766667,
+                    82.8652
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.330733333,
+                    82.88456667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.35245,
+                    82.89195
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.390433333,
+                    82.90238333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4,
+                    82.8914
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.509033333,
+                    82.9125
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.931333333,
+                    82.92616667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.118,
+                    82.93883333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.509033333,
+                    82.9125
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.405,
+                    82.89333333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.368233333,
+                    82.89903333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 7,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.29595,
+                    82.9035
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.352416667,
+                    82.85310833
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.398333333,
+                    82.787
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.661983333,
+                    82.7605
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8368,
+                    82.71063333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.93005,
+                    82.66846667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.607783333,
+                    82.55405
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.960883333,
+                    82.46055
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.430966667,
+                    82.38318333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.121966667,
+                    82.326
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5761,
+                    82.22015
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.395083333,
+                    81.79068333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.783333333,
+                    81.79068333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.783983333,
+                    81.68281667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.785283333,
+                    81.68418333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.359066667,
+                    81.63995
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.301016667,
+                    81.51048333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.076666667,
+                    81.40666667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.997483333,
+                    81.28633333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6665,
+                    81.11883333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.42935,
+                    80.9706
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.229166667,
+                    80.85
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.190833333,
+                    80.75596667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 4,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.264066667,
+                    80.6812
+                ]
+            },
+            "properties": {
+                "iceConcentration": 8,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.298033333,
+                    80.28508333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#92A9C4",
+                "dominantIceType": "other"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.119966667,
+                    80.15765
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.041666667,
+                    80.02083333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.023466667,
+                    79.86656667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.99535,
+                    79.72283333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.026666667,
+                    79.54166667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.640333333,
+                    79.4095
+                ]
+            },
+            "properties": {
+                "iceConcentration": 0,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.320366667,
+                    79.2123
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.239883333,
+                    79.11886667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.039,
+                    79.05066667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.022166667,
+                    78.96333333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 6,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.819566667,
+                    78.87108333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 2,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5214,
+                    78.80738333
+                ]
+            },
+            "properties": {
+                "iceConcentration": 1,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.804066667,
+                    78.73816667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 3,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6056,
+                    78.69921667
+                ]
+            },
+            "properties": {
+                "iceConcentration": 9,
+                "fillColor": "#FF0000",
+                "dominantIceType": "first-year"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0245,
+                    72.3225
+                ]
+            },
+            "properties": {
+                "iceConcentration": 5,
+                "fillColor": "#50BBD4",
+                "dominantIceType": "old"
+            }
+        }
+    ]
+}

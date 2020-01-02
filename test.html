@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>GeoJSON tutorial - Leaflet</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.6.0/proj4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.js"></script>
+
+
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        #map {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+    <div id='map'></div>
+
+    <script>
+        // use a special arctic projection
+        var crs = new L.Proj.CRS('EPSG:3995', "+proj=stere +lat_0=90 +lat_ts=71 +lon_0=0 +k=1 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs", {
+            origin: [0, 0],
+            resolutions: [22600, 11300, 5650, 2825, 1412.5, 706.25, 353.125, 176.5625, 88.28125, 44.140625],
+            tileSize: 256,
+            bounds: L.bounds([-3400000, 3400000, 3400000, -3400000])
+        });
+        var map = new L.Map('map', {
+            crs: crs,
+            continuousWorld: true,
+            minZoom: 0,
+            maxZoom: 18,
+        });
+        map.setView([90, 90], 2);
+
+        var eumelayr=L.tileLayer.wms('https://eumetview.eumetsat.int/geoserv/wms', {
+            layers: 'bkg-raster:bkg-raster',
+            format: 'image/png',
+            transparent: true,
+            continuousWorld: true,
+            attributution: '<a href="https://eumetview.eumetsat.int">EUMETSAT</a>'
+        }).addTo(map);
+
+        // all data in geojson
+        var obs1 = fetch('observations-26.geo.json')
+            .then(function (response) {
+                return response.json();
+            });
+
+        var obs2 = fetch('observations-36.geo.json')
+            .then(function (response) {
+                return response.json();
+            });
+
+        var obs3 = fetch('observations-40.geo.json')
+            .then(function (response) {
+                return response.json();
+            });
+
+        var amsr2 = fetch('asi-AMSR2-n6250-20141201-v5.4.reprojected_values.geo.json')
+            .then(function (response) {
+                return response.json();
+            });
+
+        var siconc = fetch('siconc2014reprojected_values.geo.json')
+            .then(function (response) {
+                return response.json();
+            });
+
+        function onEachFeature(feature, layer) {
+            if (feature.properties && feature.id) {
+                var popupContent = 'feature id: ' + feature.id + ' feature DN: ' + feature.properties.DN;
+                layer.bindPopup(popupContent);
+            }
+            if (feature.properties.iceConcentration) {
+                var popupContent = ' Ship Observed concentration: ' + feature.properties.iceConcentration;
+                layer.bindPopup(popupContent);
+            }
+        }
+
+        Promise.all([obs1, obs2, obs3, amsr2, siconc]).then(function (allResults) {
+            // get constructed layers
+            var [obs1lyr, obs2lyr, obs3lyr, amsr2lyr, siconclyr] = allResults.map(
+                function (jsonresult) {
+                    return L.geoJson(jsonresult, {
+                        style: function (feature) {
+                            return feature.properties && feature.properties.style;
+                        },
+                        onEachFeature: onEachFeature,
+                        pointToLayer: function (feature, latlng) {
+                            return L.circleMarker(latlng, {
+                                radius: 8,
+                                fillColor: "#ff7800",
+                                color: "#000",
+                                weight: 1,
+                                opacity: 1,
+                                fillOpacity: 0.8
+                            });
+                        }
+                    });
+                }
+            );
+
+            // groups for layer control
+            var observations = L.layerGroup([obs1lyr, obs2lyr, obs3lyr]);
+            var baseLayers = {
+			"eumetsat basemap":eumelayr
+		    };  
+            var overlayMaps = {
+                "Satellite": amsr2lyr,
+                "Model": siconclyr,
+                "Ship Observation": observations,
+            };
+            L.control.layers(baseLayers,overlayMaps).addTo(map);
+        })
+    </script>
+
+
+
+</body>
+
+</html>
