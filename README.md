@@ -27,7 +27,7 @@ gdal_calc.py -A asi-AMSR2-n6250-20141201-v5.4.reprojected.tif --outfile=asi-AMSR
 gdal_polygonize.py asi-AMSR2-n6250-20141201-v5.4.reprojected.tif -mask asi-AMSR2-n6250-20141201-v5.4.reprojected.mask.tif -f "GeoJSON" asi-AMSR2-n6250-20141201-v5.4.reprojected.geojson -b 1 # 使用mask，转换geojson 最后不设置波段的话会得不到DN值
 ```
 ### 显示在地图上
-用leaflet加载json。
+用leaflet加载json。颜色样式懒得根据字段定义了
 主要复杂的地方在于定义了一个极地的投影，但大多数地图没有北极的瓦片。无奈照抄了一波emusat服务的瓦片
 
 GeoSensorWebLab/polarmap.js或者可以用这个，不想看了
