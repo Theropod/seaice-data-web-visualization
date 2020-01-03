@@ -28,7 +28,7 @@ gdal_polygonize.py asi-AMSR2-n6250-20141201-v5.4.reprojected.tif -mask asi-AMSR2
 ```
 ### 显示在地图上
 用leaflet加载json。颜色样式懒得根据字段定义了
-主要复杂的地方在于定义了一个极地的投影，但大多数地图没有北极的瓦片。无奈照抄了一波emusat服务的瓦片
+主要复杂的地方在于定义了一个极地的投影，但大多数地图没有北极的瓦片。无奈照抄了一波eumetsat服务的瓦片
 
 GeoSensorWebLab/polarmap.js或者可以用这个，不想看了
 
